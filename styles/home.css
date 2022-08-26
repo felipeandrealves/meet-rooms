@@ -1,0 +1,37 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: #850b99;
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 5rem;
+}
+
+.title {
+  font-size: 3rem;
+  background: white;
+  color: #850b99;
+  padding:  0 1rem;
+}
+
+.description {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.custom-select {
+  padding: 1rem 2rem;
+  background: transparent;
+  border: 2px solid white;
+  color: white;
+  border-radius: 4px;
+  outline: none;
+  font-size: 1rem;
+  margin-top: 4rem;
+}
